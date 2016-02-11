@@ -10,7 +10,7 @@ file name mybootstrap. When I begin a new project, I import the less or sass
 file.
 
 I use these small bootstrap file to avoid to have lots of classes I don't need
-with popular libraries such as [http://bootstrap.com](Bootstrap Twitter).
+with popular libraries such as [Bootstrap Twitter](https://getbootstrap.com).
 
 Class list
 =======
